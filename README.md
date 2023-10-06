@@ -18,4 +18,6 @@
 *r is goed
 *b is fout
 *l is goed
+*d
+
 
