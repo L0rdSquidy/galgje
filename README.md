@@ -19,5 +19,6 @@
 *b is fout
 *l is goed
 *d is goed
+*e
 
 
