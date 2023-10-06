@@ -4,12 +4,12 @@
 
 | |o| | |
 
-|-|-|-|k|b|a|e|
+|-|-|r|k|b|a|e|
 
 |1|2|3|4|5|6|7|
 
 ## Score
-![gallow](./images/5.png)
+![gallow](./images/6.png)
 
 ## Beurten
 *e is niet goed
@@ -17,4 +17,4 @@
 *b is incorrect
 *k is incorrect
 *o is correct
-*r
+*r is incorrect
