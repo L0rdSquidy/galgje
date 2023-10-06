@@ -20,5 +20,5 @@
 *l is goed
 *d is goed
 *e is goed
-*q
+*q is fout
 
