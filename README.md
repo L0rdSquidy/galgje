@@ -22,4 +22,4 @@
 *e is goed
 *q is fout
 *c is goed
-*n
+*n is fout
