@@ -5,12 +5,12 @@
 | | | |e|r| |a|l| | |r|a| | |l| | | | | | | | | | | | | |e| | | |a|l| |d| | | | | | | |
 
 
-|h|b||||||
+|h|b|q|||||
 
 |1|2|3|4|5|6|7|
 
 ## Score
-![gallow](./images/2.png)
+![gallow](./images/3.png)
 
 ## Beurten
 *a is goed 
@@ -21,4 +21,5 @@
 *d is goed
 *e is goed
 *q is fout
+*c
 
