@@ -15,4 +15,5 @@
 ## Beurten
 *a is goed 
 *h is fout
+*r
 
