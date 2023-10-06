@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-| | | | |
+| |o| | |
 
 |-|-|-|k|b|a|e|
 
@@ -16,4 +16,4 @@
 *a is incorrect
 *b is incorrect
 *k is incorrect
-*o
+*o is correct
