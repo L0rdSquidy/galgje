@@ -23,3 +23,4 @@
 *q is fout
 *c is goed
 *n is fout
+*k
