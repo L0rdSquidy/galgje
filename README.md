@@ -5,16 +5,16 @@
 | | | | |r| |a| | | |r|a| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 
 
-|h|||||||
+|h|b||||||
 
 |1|2|3|4|5|6|7|
 
 ## Score
-![gallow](./images/1.png)
+![gallow](./images/2.png)
 
 ## Beurten
 *a is goed 
 *h is fout
 *r is goed
-*b
+*b is fout
 
