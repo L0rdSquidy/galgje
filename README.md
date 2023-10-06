@@ -3,8 +3,9 @@
 ## Te raden woord
 
 | |o| | |
+het word was hond
 
-|-|l|r|k|b|a|e|
+|m|l|r|k|b|a|e|
 
 |1|2|3|4|5|6|7|
 
@@ -19,4 +20,4 @@
 *o is correct
 *r is incorrect
 *l is incorrect
-*m
+*m is incorrect
