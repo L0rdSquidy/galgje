@@ -17,3 +17,4 @@
 *b is incorrect
 *k is incorrect
 *o is correct
+*r
