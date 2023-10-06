@@ -14,4 +14,4 @@
 ## Beurten
 *e is niet goed
 *a is incorrect
-*b
+*b is incorrect
