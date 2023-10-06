@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-| | | | |r| |a|l| | |r|a| | |l| | | | | | | | | | | | | | | | | |a|l| | | | | | | | | |
+| | | | |r| |a|l| | |r|a| | |l| | | | | | | | | | | | | | | | | |a|l| |d| | | | | | | |
 
 
 |h|b||||||
@@ -18,6 +18,6 @@
 *r is goed
 *b is fout
 *l is goed
-*d
+*d is goed
 
 
